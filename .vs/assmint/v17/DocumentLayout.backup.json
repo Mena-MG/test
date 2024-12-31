@@ -1,0 +1,605 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Tasksystem/True/SqlTable/dbo.tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Tasksystem/True/SqlTable/dbo.TeamMember.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Tasksystem/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\controllers\\taskescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\controllers\\taskescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\taskes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\taskes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\taskes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\taskes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\taskes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\taskes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\taskes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\taskes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\teammembers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\teammembers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\taskes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\taskes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\models\\taske.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\models\\taske.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\teammembers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\teammembers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\teammembers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\teammembers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\teammembers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\teammembers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\models\\viewmodels\\listeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\models\\viewmodels\\listeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\models\\viewmodels\\viewmodelteammamperdetals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\models\\viewmodels\\viewmodelteammamperdetals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\models\\viewmodels\\projectdetalsviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\models\\viewmodels\\projectdetalsviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\migrations\\20241230103436_inih.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\migrations\\20241230103436_inih.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\migrations\\20241230102054_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\migrations\\20241230102054_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\migrations\\20241230095247_initialcr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\migrations\\20241230095247_initialcr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\migrations\\20241230082451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\migrations\\20241230082451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|c:\\users\\mena.magdy\\source\\repos\\assmint\\assmint\\migrations\\20241230122212_initsdfsdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935B3B5-E140-4710-BFA3-BA4778122FC4}|assmint\\assmint.csproj|solutionrelative:assmint\\migrations\\20241230122212_initsdfsdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Tasksystem/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-31T07:52:50.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.TeamMember [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Tasksystem/True/SqlTable/dbo.TeamMember.sql",
+              "ToolTip": "dbo.TeamMember [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-31T07:52:46.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Tasksystem/True/SqlTable/dbo.tasks.sql",
+              "ToolTip": "dbo.tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-31T07:52:42.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPASAAAAAAAAAAAMwPkSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-30T13:09:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Details.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Taskes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Details.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Taskes\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:02:59.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Index.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Taskes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Index.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Taskes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:48:19.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Index.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\TeamMembers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Index.cshtml",
+              "RelativeToolTip": "assmint\\Views\\TeamMembers\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:23:55.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Create.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Taskes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Create.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Taskes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:05:08.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:49:14.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\appsettings.json",
+              "RelativeDocumentMoniker": "assmint\\appsettings.json",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\appsettings.json",
+              "RelativeToolTip": "assmint\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T08:11:56.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "assmint\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:14:59.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskesController.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\TaskesController.cs",
+              "RelativeDocumentMoniker": "assmint\\Controllers\\TaskesController.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\TaskesController.cs",
+              "RelativeToolTip": "assmint\\Controllers\\TaskesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:26:23.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Projects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:58:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Projects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Projects\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:00:36.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Taskes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Delete.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Taskes\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T11:24:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Taskes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Taskes\\Edit.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Taskes\\Edit.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:15:02.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241230122212_Initsdfsdf.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230122212_Initsdfsdf.cs",
+              "RelativeDocumentMoniker": "assmint\\Migrations\\20241230122212_Initsdfsdf.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230122212_Initsdfsdf.cs",
+              "RelativeToolTip": "assmint\\Migrations\\20241230122212_Initsdfsdf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:22:12.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\TeamMembers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Delete.cshtml",
+              "RelativeToolTip": "assmint\\Views\\TeamMembers\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:16:04.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Details.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Projects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Projects\\Details.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Projects\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:01:54.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "assmint\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\Project.cs",
+              "RelativeToolTip": "assmint\\Models\\Project.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:13:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Taske.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\Taske.cs",
+              "RelativeDocumentMoniker": "assmint\\Models\\Taske.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\Taske.cs",
+              "RelativeToolTip": "assmint\\Models\\Taske.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:13:23.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "assmint\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "assmint\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:25:33.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\TeamMembersController.cs",
+              "RelativeDocumentMoniker": "assmint\\Controllers\\TeamMembersController.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\TeamMembersController.cs",
+              "RelativeToolTip": "assmint\\Controllers\\TeamMembersController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwHgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:29:51.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\TeamMembers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Edit.cshtml",
+              "RelativeToolTip": "assmint\\Views\\TeamMembers\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T11:37:18.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "assmint\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\TeamMember.cs",
+              "RelativeToolTip": "assmint\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:13:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "assmint\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:36:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Details.cshtml",
+              "RelativeDocumentMoniker": "assmint\\Views\\TeamMembers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Views\\TeamMembers\\Details.cshtml",
+              "RelativeToolTip": "assmint\\Views\\TeamMembers\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:40:26.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "listeditviewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\viewmodels\\listeditviewmodel.cs",
+              "RelativeDocumentMoniker": "assmint\\Models\\viewmodels\\listeditviewmodel.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\viewmodels\\listeditviewmodel.cs",
+              "RelativeToolTip": "assmint\\Models\\viewmodels\\listeditviewmodel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:58:01.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "assmint\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "assmint\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:56:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "assmint\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "assmint\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:12:51.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241230103436_Inih.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230103436_Inih.cs",
+              "RelativeDocumentMoniker": "assmint\\Migrations\\20241230103436_Inih.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230103436_Inih.cs",
+              "RelativeToolTip": "assmint\\Migrations\\20241230103436_Inih.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:34:37.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241230102054_In.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230102054_In.cs",
+              "RelativeDocumentMoniker": "assmint\\Migrations\\20241230102054_In.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230102054_In.cs",
+              "RelativeToolTip": "assmint\\Migrations\\20241230102054_In.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:20:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241230095247_InitialCr.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230095247_InitialCr.cs",
+              "RelativeDocumentMoniker": "assmint\\Migrations\\20241230095247_InitialCr.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230095247_InitialCr.cs",
+              "RelativeToolTip": "assmint\\Migrations\\20241230095247_InitialCr.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:52:48.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewModelTeamMamperDetals.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\viewmodels\\ViewModelTeamMamperDetals.cs",
+              "RelativeDocumentMoniker": "assmint\\Models\\viewmodels\\ViewModelTeamMamperDetals.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\viewmodels\\ViewModelTeamMamperDetals.cs",
+              "RelativeToolTip": "assmint\\Models\\viewmodels\\ViewModelTeamMamperDetals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:35:49.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProjectDetalsViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\viewmodels\\ProjectDetalsViewModels.cs",
+              "RelativeDocumentMoniker": "assmint\\Models\\viewmodels\\ProjectDetalsViewModels.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Models\\viewmodels\\ProjectDetalsViewModels.cs",
+              "RelativeToolTip": "assmint\\Models\\viewmodels\\ProjectDetalsViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:51:13.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241230082451_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230082451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "assmint\\Migrations\\20241230082451_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Migrations\\20241230082451_InitialCreate.cs",
+              "RelativeToolTip": "assmint\\Migrations\\20241230082451_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:24:52.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Program.cs",
+              "RelativeDocumentMoniker": "assmint\\Program.cs",
+              "ToolTip": "C:\\Users\\mena.magdy\\source\\repos\\assmint\\assmint\\Program.cs",
+              "RelativeToolTip": "assmint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:11:55.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+﻿@model assmint.Models.viewmodels.ProjectDetalsViewModels
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Project</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.projects.name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.projects.name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.projects.description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.projects.description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.projects.stratdatee)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.projects.stratdatee)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.projects.EndDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.projects.EndDate)
+        </dd>
+    </dl>
+</div>
+<div>
+    @* <a asp-action="Edit" asp-route-id="@Model.projects.Projectid">Edit</a> | *@
+    @* <a asp-action="Index">Back to List</a> *@
+</div>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.taskes)
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.taskes.title) *@
+                taskes.title
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.descrription) *@
+                descrription
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.statues) *@
+                statues
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.priority) *@
+                priority
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.TeamMembers) *@
+                TeamMembers
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.deadlin) *@
+                deadlin
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.taskes)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Projects.Projectid)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.descrription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.statues)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.priority)
+                </td>
+                <td>
+
+                    @* @Html.DisplayFor(modelItem => item.TeamMembers.Name) *@
+                    <a asp-controller="TeamMembers" asp-action="Details" asp-route-id="@item.TeamMembers.TeamMemberid">
+
+                        @item.TeamMembers.Name
+                    </a> 
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.deadlin)
+                </td>
+                <td>
+                    <a asp-controller="Taskes" asp-action="Edit" asp-route-id="@item.Taskeid">Edit</a> |
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
